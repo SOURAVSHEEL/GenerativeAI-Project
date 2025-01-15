@@ -1,0 +1,6 @@
+langchain
+langchain_community
+pymupdf
+langchain-groq
+requests
+xmltodict
