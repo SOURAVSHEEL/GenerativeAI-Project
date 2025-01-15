@@ -4,3 +4,5 @@ pymupdf
 langchain-groq
 requests
 xmltodict
+sentence_transformers
+faiss-cpu
